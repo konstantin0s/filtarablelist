@@ -1,0 +1,9 @@
+body {
+  background-color: #c5cd91;
+}
+
+#filterInput {
+  background-color: #faec94;
+  padding: 0.25em;
+  text-transform: capitalize;
+}
